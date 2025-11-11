@@ -1,0 +1,65 @@
+body {
+color: #ffffff;
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-image: url(https://e0.pxfuel.com/wallpapers/805/672/desktop-wallpaper-full-dexter-backgrounds.jpg);
+}
+
+header {
+background-color: #000000;
+color: #af1616;
+text-align: center;
+padding: 20px;
+text-shadow: 
+  0 0 5px #ff0000,
+  0 0 40px #ff0000;
+}
+
+section {
+background: rgb(0, 0, 0);
+margin: 20px auto;
+padding: 20px;
+max-width: 800px;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(212, 55, 55, 0.1)
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 3px solid rgb(162, 7, 7);
+  display: block;
+  margin: 0 auto 20px;
+  object-fit: cover;
+}
+
+h1, h2 {
+text-align: center;
+}
+
+ul {
+list-style: none;
+padding: 0;
+}
+
+li {
+background: #eee;
+margin: 5px 0;
+padding: 10px;
+border-radius: 5px;
+color: #000000;
+}
+
+.sobremim {
+color: #e12a2a;
+}
+
+.habilidades {
+color: #e12a2a;
+}
+
+.contato {
+color: #e12a2a;
+}
